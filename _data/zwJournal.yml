@@ -1,0 +1,153 @@
+- title: "LassoNet: Deep Lasso-Selection of 3D Point Clouds "
+  image: lasso.png
+  description: We couple user-target points with viewpoint and lasso information through 3D coordinate transform and naive selection, and improve the method scalability via an intention filtering and farthest point sampling.
+  authors: Zhutian Chen, <b>Wei Zeng</b> (Corresponding Author), Zhiguang Yang, Lingyun Yu, Chi-Wing Fu, and Huamin Qu
+  link:
+    url: https://arxiv.org/pdf/1907.13538.pdf
+    display:  IEEE Transactions on Visualization and Computer Graphics (Proc. SciVis 2019)
+  highlight: 1
+  news1:
+  news2:
+
+- title: "Route-Aware Edge Bundling for Visualizing Origin-Destination Trails in Urban Traffic"
+  image: roads.png
+  description: Origin-destination (OD) trails describe movements across space. Typical visualizations thereof use either straight lines or plot the actual trajectories. To reduce clutter inherent to visualizing large OD datasets, bundling methods can be used. Yet, bundling OD trails in urban traffic data remains challenging. Two specific reasons hereof are the constraints implied by the underlying road network and the difficulty of finding good bundling settings. To cope with these issues, we propose a new approach called Route Aware Edge Bundling (RAEB).
+  authors: <b>Wei Zeng</b>, Qiaomu Shen, Yuzhe Jiang, Alex Telea
+  link:
+    url: https://zeng-wei.com/publication/papers/2019_RAEB.pdf
+    display:  Computer Graphics Forum (Proc. EuroVis 2019)
+  highlight: 1
+  news1:
+  news2:
+
+- title: "The visual quality of streets: A human-centred continuous measurement based on machine learning algorithms and street view images"
+  image: 
+  description: 
+  authors: Yu Ye, <b>Wei Zeng</b> (Corresponding Author), Qiaomu Shen, Xiaohu Zhang, Yi Lu
+  link:
+    url: \#
+    display: Environment and Planning B - Urban Analytics and City Science
+  highlight: 0
+  news1: in print, 2019
+  news2:
+
+- title: "Measuring daily accessed street greenery: A human-scale approach for informing better urban planning practices"
+  image: 
+  description: 
+  authors: Yu Ye, Daniel Richards, Yi Lu, Xiaoping Song, Yu Zhuang, <b>Wei Zeng</b>, Teng Zhong
+  link:
+    url: https://zeng-wei.com/publication/papers/2018%20Measuring%20daily%20accessed%20street%20greenery.pdf
+    display:  Landscape and Urban Planning
+  highlight: 0
+  news1: 
+  news2:
+
+- title: "VitalVizor: A Visual Analytics System for Studying Urban Vitality"
+  image: 
+  description: 
+  authors: <b>Wei Zeng</b>, Yu Ye
+  link:
+    url: https://zeng-wei.com/publication/papers/2018%20VitalVizor.pdf
+    display:  IEEE Computer Graphics and Applications’s (Special Issue on Visualization for Smart City Application) vol. 38, no. 5, pp. 38-53, 2018.
+  highlight: 0
+  news1: 
+  news2:
+
+- title: "StreetVizor: Visual Exploration of Human-Scale Urban Forms Based on Street Views"
+  image: 
+  description: 
+  authors: Qiaomu Shen, <b>Wei Zeng</b> (corresponding author), Yu Ye, Stefan Müller Arisona, Simon Schubiger, Remo Burkhard and Huamin Qu
+  link:
+    url: https://zeng-wei.com/publication/papers/2018%20streetvizor.pdf
+    display:  IEEE Transactions on Visualization and Computer Graphics (Proceedings of IEEE SciVis'17) vol. 38, no. 5, pp. 38-53, 2018.
+  highlight: 0
+  news1: 
+  news2:
+
+- title: "A Visual Analytics Design for Studying Rhythm Patterns from Human Daily Movement Data"
+  image: 
+  description: 
+  authors: <b>Wei Zeng</b>, Chi-Wing Fu, Stefan Müller Arisona, Simon Schubiger, Remo Burkhard and Kwan-Liu Ma
+  link:
+    url: https://zeng-wei.com/publication/papers/2017%20Movement%20Rhythm.pdf
+    display: Visual Informatics (extended version of SIGGRAPH Asia Symp. Vis. 2016 paper) vol. 1, no. 2, pp. 81-91, 2017.
+  highlight: 0
+  news1: 
+  news2:
+
+- title: "Visualizing the Relationship between Human Mobility and Points-of-Interest"
+  image: 
+  description: 
+  authors: <b>Wei Zeng</b>, Chi-Wing Fu, Stefan Müller Arisona, Simon Schubiger, Remo Burkhard and Kwan-Liu Ma
+  link:
+    url: https://zeng-wei.com/publication/papers/2017%20Movement%20Rhythm.pdf
+    display: IEEE Transactions on Intelligent Transportation Systems (Special Issue on Visual Analysis for ITS) vol. 18, no. 8, pp. 2271-2284, 2017.
+  highlight: 0
+  news1: 
+  news2:
+
+- title: "Visualizing Waypoints-Constrained Origin-Destination Patterns for Massive Transportation Data"
+  image: 
+  description: 
+  authors: <b>Wei Zeng</b>, Chi-Wing Fu, Stefan Müller Arisona, Alexander Erath, Huamin Qu
+  link:
+    url: https://zeng-wei.com/publication/papers/2016%20Waypoints%20OD.pdf
+    display: Computer Graphics Forum vol. 35, no. 8, pp. 95-107, 2016.
+  highlight: 0
+  news1: 
+  news2:
+
+- title: "Visualizing Mobility of Public Transportation System"
+  image: 
+  description: 
+  authors: <b>Wei Zeng</b>, Chi-Wing Fu, Stefan Müller Arisona, Alexander Erath, Huamin Qu
+  link:
+    url: https://zeng-wei.com/publication/papers/2014%20Mobility.pdf
+    display: IEEE Transactions on Visualization and Computer Graphics (Proceedings of IEEE VAST'14) vol. 20, no. 12, pp. 1833-1842, 2014.
+  highlight: 0
+  news1: 
+  news2:
+
+- title: "The Time Space Diagram Revisited"
+  image: 
+  description: 
+  authors: Afian Anwar, <b>Wei Zeng</b>, Stefan Müller Arisona
+  link:
+    url: https://zeng-wei.com/publication/papers/2014%20The%20Time%20Space%20Diagram%20Revisited.pdf
+    display: Transportation Research Record - Journal of the Transportation Research Board (Proceedings of TRB'14) No. 14-1046, 2014.
+  highlight: 0
+  news1: 
+  news2:
+
+- title: "Classifying Watermelon Ripeness by Analysing Acoustic Signals Using Mobile Devices"
+  image: 
+  description: 
+  authors: <b>Wei Zeng</b>, Xianfeng Huang, Stefan Müller Arisona and Ian Vince McLoughlin
+  link:
+    url: https://zeng-wei.com/publication/papers/2013%20watermelon.pdf
+    display: Personal and Ubiquitous Computing vol. 18, no. 7, pp. 1753-1762, 2014.
+  highlight: 0
+  news1: 
+  news2:
+
+- title: "Visualizing Interchange Patterns in Massive Movement Data"
+  image: 
+  description: 
+  authors: <b>Wei Zeng</b>, Chi-Wing Fu, Stefan Müller Arisona and Huamin Qu
+  link:
+    url: https://zeng-wei.com/publication/papers/2013%20interchange.pdf
+    display: Computer Graphics Forum (Proceedings of EuroVis'13) vol. 32, no. 3pt3, pp. 271-280, 2013.
+  highlight: 0
+  news1: 
+  news2:
+
+- title: "Campus Mobility for the Future: The Electric Bicycle"
+  image: 
+  description: 
+  authors: Ian Vince McLoughlin, I Komang Narendra, Leong Hai Koh, Quang Huy Nguyen, Bharath Seshadri, <b>Wei Zeng</b>, Chang Yao
+  link:
+    url: https://zeng-wei.com/publication/papers/2012%20Campus%20Mobility%20for%20the%20Future-The%20Electric%20Bicycle.pdf
+    display: Digital Urban Modeling and Simulation vol. 2, no. 1, pp. 1-12, 2012.
+  highlight: 0
+  news1: 
+  news2:

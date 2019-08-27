@@ -1,0 +1,204 @@
+- title: "Improving the Robustness of Scagnostics"
+  image: 
+  description: 
+  authors: Yunhai Wang, Zeyu Wang, Tingting Liu, Michael Correll, <b>Zhanglin Cheng*</b>, Oliver Deussen, Michael Sedlmair
+  link:
+    url: \#
+    display: IEEE Transactions on Visualization and Computer Graphics (IEEE Vis 2019).
+  highlight: 0
+  news1: 
+  news2:
+  year: 2019
+
+- title: "Intrinsic Image Sequence Decomposition Using Low-Rank Sparse Model"
+  image: 
+  description: 
+  authors: Wenyong Gong, Weihong Xu, Leqin Wu, Xiaohua Xie, <b>Zhanglin Cheng*</b>
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/8588292/
+    display: IEEE Access, 7:4024-4030, 2019
+  highlight: 0
+  news1: 
+  news2:
+  year: 2019
+
+- title: "VEGA :Visual Comparison of Phylogenetic Trees for Evolutionary Genome Analysis"
+  image: 
+  description: 
+  authors: Tong Ge, Yonghua Lu, Kecheng Lu, Yunhai Wang, Xin Liu, <b>Zhanglin Cheng</b>, Yi Chen, Oliver Deussen, Baoquan Chen
+  link:
+    url: \#
+    display: Journal of Visualization (ChinaVis 2019)
+  highlight: 0
+  news1: 
+  news2:
+  year: 2019
+
+- title: "Quasi-Holography Computational Model for Urban Computing"
+  image: 
+  description: 
+  authors: Tong Ge, Yonghua Lu, Kecheng Lu, Yunhai Wang, Xin Liu, <b>Zhanglin Cheng</b>, Yi Chen, Oliver Deussen, Baoquan Chen
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S2468502X19300324
+    display: Visual Informatics, 2019, 3(2):81-86.
+  highlight: 0
+  news1: 
+  news2:
+  year: 2019
+
+- title: "Synthesizing Cloth Wrinkles by CNN-based Geometry Image Super-resolution"
+  image: 
+  description: 
+  authors: Lan Chen, Juntao Ye, Liguo Jiang, Chengcheng Ma, <b>Zhanglin Cheng</b>, Xiaopeng Zhang.
+  link:
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/cav.1810
+    display:  Computer Animation and Virtual World, 2018, 29(3-4).
+  highlight: 0
+  type: 1
+  year: 2018
+  news1: 
+  news2:
+  
+- title: "Realistic Procedural Plant Modeling from Multiple View Images"
+  image: realistictree.png
+  description: We describe a novel procedural modeling technique for generating realistic plant models from multi-view photographs. The realism is enhanced via visual and spatial information acquired from images.
+  authors: Jianwei Guo, Shibiao Xu, Dong-Ming Yan*, <b>Zhanglin Cheng*</b>, Marc Jaeger, Xiaopeng Zhang
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/8462802
+    display: IEEE Transactions on Visualization and Computer Graphics, accepted for publication, 2018.
+  highlight: 1
+  news1: 
+  news2:
+  year: 2018
+
+- title: "Is There a Robust Technique for Selecting Aspect Ratios in Line Charts?"
+  image: 
+  description: 
+  authors: Yunhai Wang, Zeyu Wang, Lifeng Zhu, Jian Zhang, Chi-Wing Fu, <b>Zhanglin Cheng*</b>, Changhe Tu, Baoquan Chen
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/8239850/
+    display: IEEE Transactions on Visualization and Computer Graphics, 2018, 24(12):3096-3110.
+  highlight: 0
+  news1: 
+  news2:
+  year: 2018
+
+- title: "Realistic procedural plant modeling guided by 3D point cloud"
+  image: pointtree.png
+  description: We present a rule-based framework for generating naturally-looking plant models from real point cloud.
+  authors: Jianwei Guo, <b>Zhanglin Cheng*</b>, Shibiao Xu, Xiaopeng Zhang
+  link:
+    url: https://dl.acm.org/citation.cfm?id=3102193
+    display: SIGGRAPH 2017 (Poster), Los Angeles, California, July 30 - August 03, Article 85.
+  highlight: 1
+  news1: 
+  news2:
+  year: 2017
+
+- title: "Analogy-based volume exploration using ellipsoidal Gaussian transfer functions"
+  image: 
+  description: 
+  authors: Xiaoke Bao, Yunhai Wang, <b>Zhanglin Cheng</b>, Changhe Tu, Fangfang Zhou, Baoquan Chen
+  link:
+    url: https://link.springer.com/article/10.1007/s12650-017-0461-3
+    display: Journal of Visualization 21 (3), 511-523
+  highlight: 0
+  news1: 
+  news2:
+  year: 2017
+
+- title: "Cluster aware Star Coordinates"
+  image: 
+  description: 
+  authors: Kang Feng, Yunhai Wang, Ying Zhao, Chi-Wing Fu, <b>Zhanglin Cheng*</b>, Baoquan Chen
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S1045926X1730191X
+    display: Journal of Visual Languages & Computing, 2018, 44:28~38. (ChinaVis 2017)
+  highlight: 0
+  news1: 
+  news2:
+  year: 2017
+
+- title: "Texture-lobes for tree modeling"
+  image: lobetree.png
+  description: We present a lobe-based tree representation for modeling trees. The new representation is based on the observation that the tree’s foliage details can be abstracted into canonical geometry structures, termed lobe-textures. 
+  authors: Yotam Livny, Soeren Pirk, <b>Zhanglin Cheng</b>, Feilong Yan, Oliver Deussen, Daniel Cohen-Or, Baoquan Chen
+  link:
+    url: https://dl.acm.org/citation.cfm?id=1964948
+    display: ACM Transactions on Graphics (TOG) 30 (4), 53
+  highlight: 1
+  news1: 
+  news2:
+  year: 2011
+
+- title: "Estimating differential quantities from point cloud based on a linear fitting of normal vectors"
+  image: 
+  description: 
+  authors: <b>Zhanglin Cheng</b>, Xiaopeng Zhang
+  link:
+    url: https://link.springer.com/article/10.1007/s11432-009-0061-5
+    display: Science in China Series F:Information Sciences 52 (3), 431-444	16	2009
+  highlight: 0
+  news1: 
+  news2:
+  year: 2009
+
+- title: "Robust Curvature Estimation and Geometry Analysis of 3D point Cloud Surfaces"
+  image: 
+  description: 
+  authors: Xiaopeng Zhang, Hongjun Li, <b>Zhanglin Cheng</b>, Yikuan Zhang
+  link:
+    url: http://manu35.magtech.com.cn/Jwk_ics/CN/article/downloadArticleFile.do?attachType=PDF&id=3575
+    display: Journal of Information & Computational Science 6 (5), 1983-1990	11	2009
+  highlight: 0
+  news1: 
+  news2:
+  year: 2009
+
+- title: "Curvature estimation of 3d point cloud surfaces through the fitting of normal section curvatures"
+  image: 
+  description: 
+  authors: Xiaopeng Zhang, Hongjun Li, <b>Zhanglin Cheng</b>
+  link:
+    url: \#
+    display: AsiaGraph 2008, 72-79
+  highlight: 0
+  news1: 
+  news2:
+  year: 2008
+
+- title: "Simple reconstruction of tree branches from a single range image"
+  image: 
+  description: 
+  authors: <b>Zhanglin Cheng</b>, Xiaopeng Zhang, Baoquan Chen
+  link:
+    url: https://link.springer.com/article/10.1007/s11390-007-9095-6
+    display: Journal of computer science and technology 22 (6), 846-858
+  highlight: 0
+  news1: 
+  news2:
+  year: 2007
+
+- title: "Tree skeleton extraction from a single range image"
+  image: 
+  description: 
+  authors: <b>Zhanglin Cheng</b>, Xiaopeng Zhang, Thierry Fourcaud
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/4548382/
+    display: 2006 Second International Symposium on Plant Growth Modeling and Applications
+  highlight: 0
+  news1: 
+  news2:
+  year: 2006
+
+- title: "The design and implementation of a C++ toolkit for integrated medical image processing and analyzing"
+  image: 
+  description: 
+  authors: Mingchang Zhao, Jie Tian, Xun Zhu, Jian Xue, <b>Zhanglin Cheng</b>, Hua Zhao
+  link:
+    url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5367/0000/The-design-and-implementation-of-a-C-toolkit-for-integrated/10.1117/12.534890.short
+    display: Proceedings of SPIE Medical Imaging 5367, 39-47
+  highlight: 0
+  news1: 
+  news2:
+  year: 2004

@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div id="homeid" class="col-sm-8">
+  <div id="main" style="width:100%;">
+    <div id="left" style="width:15%;float:left;">
+      <div>
+        <h6 style="color: white">SIAT-VCC</h6>
+      </div>
+      <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/vcc.jpg" style="height:72px">
+    </div>
+    <div id="right" style="width:85%;float:left;">
+      <h1 style="vertical-align:top">Welcome to the Visual Computing Research Center</h1>
+    </div>
+  </div>
+  <div id="content">
+    {{ content }}
+  </div>
+</div>
+<div id="newsid" class="col-sm-4">
+  {% include news.html %}
+</div>

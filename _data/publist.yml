@@ -1,0 +1,65 @@
+- title: "LassoNet: Deep Lasso-Selection of 3D Point Clouds "
+  image: lasso.png
+  description: We succeeded in measuring the superfluid density with atomic resolution on an unconventional superconductor! In contrast to expectations for conventional superconductors, we find that the superfluid densisty is strongly inhomogeneous in FeTe0.55Se0.45.
+  authors: Zhutian Chen, <b>Wei Zeng (Corresponding Author)</b>, Zhiguang Yang, Lingyun Yu, Chi-Wing Fu, and Huamin Qu
+  link:
+    url: https://www.nature.com/articles/s41586-019-1408-8
+    display:  IEEE Transactions on Visualization and Computer Graphics (Proc. SciVis 2019)
+  highlight: 1
+  news1:
+  news2:
+
+- title: "Route-Aware Edge Bundling for Visualizing Origin-Destination Trails in Urban Traffic"
+  image: roads.png
+  description: We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope.
+  authors: Wei Zeng, Qiaomu Shen, Yuzhe Jiang, Alex Telea
+  link:
+    url: https://arxiv.org/abs/1907.05808
+    display:  Computer Graphics Forum (Proc. EuroVis 2019)
+  highlight: 1
+  news1:
+  news2:
+
+- title: "Realistic Procedural Plant Modeling from Multiple View Images"
+  image: realistictree.png
+  description: Our first completely home-built STM is alive! And it has the world’s highest resonance frequency.
+  authors: I Battisti, G Verdoes, K van Oosten, KM Bastiaans, and MP Allan
+  link:
+    url: https://aip.scitation.org/doi/10.1063/1.5064442
+    display: IEEE Transactions on Visualization and Computer Graphics, 2018
+  highlight: 1
+  news1:
+  news2:
+
+- title: "Realistic Procedural Plant Modeling Guided by 3D Point Cloud"
+  image: pointtree.png
+  description: Using our newly developed noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
+  authors: KM Bastiaans* & D Cho*, T Benschop, I Battisti, Y Huang, MS Golden, Q Dong, Y Jin, J Zaanen, MP Allan
+  link:
+    url: https://www.nature.com/articles/s41567-018-0300-z
+    display:  SIGGRAPH 2017 Posters, 2017
+  highlight: 1
+  news1: <a href="https://aip.scitation.org/doi/10.1063/1.5043267">Instrument details in Rev. Sci. Instrum. 89, 093709 (2018)</a>
+  news2: See also <a href="http://www.quantumuniverse.nl/een-isolerende-supergeleider"> quantum universe </a> (in dutch), <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>, <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news</a>, <a href="http://iop.uva.nl/content/news/2018/10/noise-helps-physicists-discover-insulating-phenomenon-in-superconductor.html"> UvA news<a>.
+
+- title: "Texture-Lobes for Tree Modelling"
+  image: lobetree.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: KM Bastiaans, T Benschop, D Chatzopoulos, D Cho, Q Dong, Y Jin, MP Allan
+  link:
+    url: https://aip.scitation.org/doi/10.1063/1.5043267
+    display: ACM Transactions on Graphics, 2011
+  highlight: 1
+  news1:
+  news2:
+
+- title: "StreetVizor: Visual Exploration of Human-Scale Urban Forms Based on Street Views"
+  image: SmartPub.png
+  description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
+  authors: Qiaomu Shen, Wei Zeng (corresponding author), Yu Ye, Stefan Müller Arisona, Simon Schubiger, Remo Burkhard and Huamin Qu
+  link:
+    url: https://iopscience.iop.org/article/10.1088/1361-6528/ab1c7f/pdf
+    display: IEEE Transactions on Visualization and Computer Graphics (Proceedings of IEEE SciVis'17) vol. 38, no. 5, pp. 38-53, 2018.
+  highlight: 1
+  news1:
+  news2:

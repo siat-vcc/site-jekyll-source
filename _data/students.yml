@@ -1,0 +1,82 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  research:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Ao Dong
+  photo: rock.jpg
+  info: Master student
+  email: ao.dong@siat.ac.cn
+  research: literature data visualization
+  number_educ: 1
+  education1: B.S-Shandong University of Science and Technology
+
+- name: Jiaxin Zhou
+  photo: rock.jpg
+  info: Master student
+  email: jx.zhou@siat.ac.cn
+  research: structure from motion
+  number_educ: 0
+  education1: 
+
+- name: Zhiguang Yang
+  photo: rock.jpg
+  info: Master student
+  email: zg.yang@siat.ac.cn
+  research: Deep learning
+  number_educ: 1
+  education1: B.S-Beijing Institue of Technology
+
+- name: Zhihao Liu
+  photo: rock.jpg
+  info: Master student
+  email: notAvailable@siat.ac.com
+  research: modeling and 3D reconstruction
+  number_educ: 1
+  education1: B.S-Northwest A&F University
+
+- name: Kai Wu
+  photo: rock.jpg
+  info: Master student
+  email: kai.wu@siat.ac.cn
+  research: computer graphics
+  number_educ: 1
+  education1: B.S-Northwest A&F University
+
+- name: Zhenbang He
+  photo: rock.jpg
+  info: Master student
+  email: zb.he@siat.ac.com
+  research: offline rendering
+  number_educ: 1
+  education1: B.S-Dalian University of Technology
+
+- name: Xi Chen
+  photo: rock.jpg
+  info: Master student
+  email: xi.chen2@siat.ac.com
+  research: visualization
+  number_educ: 0
+  education1: visualization
+
+- name: Xiaoliang Cui
+  photo: rock.jpg
+  info: Master student
+  email: xl.cui@siat.ac.cn
+  research: computer graphics
+  number_educ: 1
+  education1: B.S-Wuhan University of Technology
+
+- name: Zhendong Xiao
+  photo: rock.jpg
+  info: Master student
+  email: zd.xiao@siat.ac.cn
+  research: 3D reconstruction
+  number_educ: 1
+  education1: University of Sciences and Technology of China

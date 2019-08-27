@@ -1,0 +1,54 @@
+- title: "VIStory: Interactive Storyboard for Exploring Visual Information in Scientific Publications"
+  image: 
+  description: 
+  authors: <b>Ao Dong</b>, <b>Wei Zeng</b> (Corresponding Author), <b>Xi Chen</b>, <b>Zhanglin Cheng</b>
+  link:
+    url: https://dongoa.github.io/projects/VIStory/index.html
+    display: Proceedings VINCI, Accepted, 2019
+  highlight: 0
+  news1: 
+  news2:
+
+  - title: "Urban Fusion: Visualizing urban data fused with social feeds via a game engine"
+  image: 
+  description: 
+  authors: Jan Perhac, <b>Wei Zeng</b>, Shiho Asada, Remo Burkhard, Stefan Mueller Arisona, Simon Schubiger, Berhard Klein
+  link:
+    url: https://zeng-wei.com/publication/papers/2017%20Urban%20Fusion.pdf
+    display: Proceedings of 21st International Conference on Information Visualisation, pp. 312-317, 2017.
+  highlight: 0
+  news1: 
+  news2:
+
+- title: "Urban Mining: Visualizing the Availability of Construction Materials for Re-use in Future Cities"
+  image: 
+  description: 
+  authors: Aurel von Richthofen, <b>Wei Zeng</b>, Shiho Asada, Remo Burkhard, Felix Heisel, Stefan Mueller Arisona, Simon Schubiger
+  link:
+    url: https://zeng-wei.com/publication/papers/2017%20Urban%20Fusion.pdf
+    display: Proceedings of 21st International Conference on Information Visualisation, pp. 306-311, 2017.
+  highlight: 0
+  news1: 
+  news2:
+
+- title: "A visual Analytics Design for Studying Crowd Movement Rhythms for Public Transportation Data"
+  image: 
+  description: 
+  authors: <b>Wei Zeng</b>, Chi-Wing Fu, Stefan Müller Arisona, Simon Schubiger, Remo Burkhard and Kwan-Liu Ma
+  link:
+    url: https://zeng-wei.com/publication/papers/2016%20A%20Visual%20Analytics%20Design%20for%20Studying%20Crowd%20Movement%20Rhythms%20from%20Public%20Transportation%20Data.pdf
+    display: Proceedings of SIGGRAPH Asia Symposium on Visualization pp. 4:1-4:7, 2016.
+  highlight: 0
+  news1: 
+  news2:
+
+- title: "MetroBuzz: Interactive 3D Visualization of Spatiotemporal Data"
+  image: 
+  description: 
+  authors: <b>Wei Zeng</b>, Chen Zhong, Afian Anwar, Stefan Müller Arisona, and Ian Vince McLoughlin
+  link:
+    url: https://zeng-wei.com/publication/papers/2012%20Metrobuzz.pdf
+    display: Proceedings of International Conference on Computer & Information Science vol. 1, pp. 143-147, 2012.
+  highlight: 0
+  news1: 
+  news2:

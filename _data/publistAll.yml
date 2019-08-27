@@ -1,0 +1,491 @@
+# - title: 
+#   image: 
+#   description: 
+#   authors: 
+#   link:
+#     url: 
+#     display:  
+#   highlight: 
+#   type: 1=journal 2=conference
+#   news1:
+#   news2:
+
+
+# journal
+- title: "Improving the Robustness of Scagnostics"
+  image: 
+  description: 
+  authors: Yunhai Wang, Zeyu Wang, Tingting Liu, Michael Correll, <b>Zhanglin Cheng*</b>, <b>Oliver Deussen</b>, Michael Sedlmair
+  link:
+    url: \#
+    display: IEEE Transactions on Visualization and Computer Graphics (IEEE Vis 2019).
+  highlight: 0
+  type: 1
+  year: 2019
+  news1: 
+  news2:
+
+
+- title: "VEGA :Visual Comparison of Phylogenetic Trees for Evolutionary Genome Analysis"
+  image: 
+  description: 
+  authors: Tong Ge, Yonghua Lu, Kecheng Lu, Yunhai Wang, Xin Liu, <b>Zhanglin Cheng</b>, Yi Chen, <b>Oliver Deussen</b>, Baoquan Chen
+  link:
+    url: \#
+    display: Journal of Visualization (ChinaVis 2019)
+  highlight: 0
+  type: 1
+  year: 2019
+  news1: 
+  news2:
+
+
+- title: "LassoNet: Deep Lasso-Selection of 3D Point Clouds "
+  image: lasso.png
+  description: We couple user-target points with viewpoint and lasso information through 3D coordinate transform and naive selection, and improve the method scalability via an intention filtering and farthest point sampling.
+  authors: Zhutian Chen, <b>Wei Zeng</b> (Corresponding Author), Zhiguang Yang, Lingyun Yu, Chi-Wing Fu, and Huamin Qu
+  link:
+    url: https://arxiv.org/pdf/1907.13538.pdf
+    display:  IEEE Transactions on Visualization and Computer Graphics (Proc. SciVis 2019)
+  highlight: 1
+  type: 1
+  year: 2019
+  news1:
+  news2:
+
+
+- title: "Quasi-Holography Computational Model for Urban Computing"
+  image: 
+  description: 
+  authors: Tong Ge, Yonghua Lu, Kecheng Lu, Yunhai Wang, Xin Liu, <b>Zhanglin Cheng</b>, Yi Chen, <b>Oliver Deussen</b>, Baoquan Chen
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S2468502X19300324
+    display: Visual Informatics, 2019, 3(2):81-86.
+  highlight: 0
+  type: 1
+  year: 2019
+  news1: 
+  news2:
+
+
+- title: "Route-Aware Edge Bundling for Visualizing Origin-Destination Trails in Urban Traffic"
+  image: roads.png
+  description: Origin-destination (OD) trails describe movements across space. Typical visualizations thereof use either straight lines or plot the actual trajectories. To reduce clutter inherent to visualizing large OD datasets, bundling methods can be used. Yet, bundling OD trails in urban traffic data remains challenging. Two specific reasons hereof are the constraints implied by the underlying road network and the difficulty of finding good bundling settings. To cope with these issues, we propose a new approach called Route Aware Edge Bundling (RAEB).
+  authors: <b>Wei Zeng</b>, Qiaomu Shen, Yuzhe Jiang, Alex Telea
+  link:
+    url: https://zeng-wei.com/publication/papers/2019_RAEB.pdf
+    display:  Computer Graphics Forum (Proc. EuroVis 2019)
+  highlight: 1
+  type: 1
+  year: 2019
+  news1:
+  news2:
+
+
+- title: "The visual quality of streets: A human-centred continuous measurement based on machine learning algorithms and street view images"
+  image: 
+  description: 
+  authors: Yu Ye, <b>Wei Zeng</b> (Corresponding Author), Qiaomu Shen, Xiaohu Zhang, Yi Lu
+  link:
+    url: \#
+    display: Environment and Planning B - Urban Analytics and City Science
+  highlight: 0
+  type: 1
+  year: 2019
+  news1: in print, 2019
+  news2:
+ 
+- title: "Synthesizing Cloth Wrinkles by CNN-based Geometry Image Super-resolution"
+  image: 
+  description: 
+  authors: Lan Chen, Juntao Ye, Liguo Jiang, Chengcheng Ma, <b>Zhanglin Cheng</b>, Xiaopeng Zhang.
+  link:
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/cav.1810
+    display:  Computer Animation and Virtual World, 2018, 29(3-4).
+  highlight: 0
+  type: 1
+  year: 2018
+  news1: 
+  news2:
+
+- title: "Measuring daily accessed street greenery: A human-scale approach for informing better urban planning practices"
+  image: 
+  description: 
+  authors: Yu Ye, Daniel Richards, Yi Lu, Xiaoping Song, Yu Zhuang, <b>Wei Zeng</b>, Teng Zhong
+  link:
+    url: https://zeng-wei.com/publication/papers/2018%20Measuring%20daily%20accessed%20street%20greenery.pdf
+    display:  Landscape and Urban Planning
+  highlight: 0
+  type: 1
+  year: 2018
+  news1: 
+  news2:
+
+
+- title: "Realistic Procedural Plant Modeling from Multiple View Images"
+  image: realistictree.png
+  description: We describe a novel procedural modeling technique for generating realistic plant models from multi-view photographs. The realism is enhanced via visual and spatial information acquired from images.
+  authors: Jianwei Guo, Shibiao Xu, Dong-Ming Yan*, <b>Zhanglin Cheng*</b>, Marc Jaeger, Xiaopeng Zhang
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/8462802
+    display: IEEE Transactions on Visualization and Computer Graphics, accepted for publication, 2018.
+  highlight: 1
+  type: 1
+  year: 2018
+  news1: 
+  news2:
+
+
+- title: "VitalVizor: A Visual Analytics System for Studying Urban Vitality"
+  image: 
+  description: 
+  authors: <b>Wei Zeng</b>, Yu Ye
+  link:
+    url: https://zeng-wei.com/publication/papers/2018%20VitalVizor.pdf
+    display:  IEEE Computer Graphics and Applications’s (Special Issue on Visualization for Smart City Application) vol. 38, no. 5, pp. 38-53, 2018.
+  highlight: 0
+  type: 1
+  year: 2018
+  news1: 
+  news2:
+
+
+- title: "Is There a Robust Technique for Selecting Aspect Ratios in Line Charts?"
+  image: 
+  description: 
+  authors: Yunhai Wang, Zeyu Wang, Lifeng Zhu, Jian Zhang, Chi-Wing Fu, <b>Zhanglin Cheng*</b>, Changhe Tu, Baoquan Chen
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/8239850/
+    display: IEEE Transactions on Visualization and Computer Graphics, 2018, 24(12):3096-3110.
+  highlight: 0
+  type: 1
+  year: 2018
+  news1: 
+  news2:
+
+
+- title: "Analogy-based volume exploration using ellipsoidal Gaussian transfer functions"
+  image: 
+  description: 
+  authors: Xiaoke Bao, Yunhai Wang, <b>Zhanglin Cheng</b>, Changhe Tu, Fangfang Zhou, Baoquan Chen
+  link:
+    url: https://link.springer.com/article/10.1007/s12650-017-0461-3
+    display: Journal of Visualization 21 (3), 511-523
+  highlight: 0
+  type: 1
+  year: 2018
+  news1: 
+  news2:
+
+
+- title: "StreetVizor: Visual Exploration of Human-Scale Urban Forms Based on Street Views"
+  image: 
+  description: 
+  authors: Qiaomu Shen, <b>Wei Zeng</b> (corresponding author), Yu Ye, Stefan Müller Arisona, Simon Schubiger, Remo Burkhard and Huamin Qu
+  link:
+    url: https://zeng-wei.com/publication/papers/2018%20streetvizor.pdf
+    display:  IEEE Transactions on Visualization and Computer Graphics (Proceedings of IEEE SciVis'17) vol. 38, no. 5, pp. 38-53, 2018.
+  highlight: 0
+  year: 2018
+  type: 1
+  news1: 
+  news2:
+
+
+- title: "Cluster aware Star Coordinates"
+  image: 
+  description: 
+  authors: Kang Feng, Yunhai Wang, Ying Zhao, Chi-Wing Fu, <b>Zhanglin Cheng*</b>, Baoquan Chen
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S1045926X1730191X
+    display: Journal of Visual Languages & Computing, 2018, 44:28~38. (ChinaVis 2017)
+  highlight: 0
+  type: 1
+  year: 2017
+  news1: 
+  news2:
+
+
+- title: "A Visual Analytics Design for Studying Rhythm Patterns from Human Daily Movement Data"
+  image: 
+  description: 
+  authors: <b>Wei Zeng</b>, Chi-Wing Fu, Stefan Müller Arisona, Simon Schubiger, Remo Burkhard and Kwan-Liu Ma
+  link:
+    url: https://zeng-wei.com/publication/papers/2017%20Movement%20Rhythm.pdf
+    display: Visual Informatics (extended version of SIGGRAPH Asia Symp. Vis. 2016 paper) vol. 1, no. 2, pp. 81-91, 2017.
+  highlight: 0
+  type: 1
+  year: 2017
+  news1: 
+  news2:
+
+- title: "Visualizing the Relationship between Human Mobility and Points-of-Interest"
+  image: 
+  description: 
+  authors: <b>Wei Zeng</b>, Chi-Wing Fu, Stefan Müller Arisona, Simon Schubiger, Remo Burkhard and Kwan-Liu Ma
+  link:
+    url: https://zeng-wei.com/publication/papers/2017%20Movement%20Rhythm.pdf
+    display: IEEE Transactions on Intelligent Transportation Systems (Special Issue on Visual Analysis for ITS) vol. 18, no. 8, pp. 2271-2284, 2017.
+  highlight: 0
+  type: 1
+  year: 2017
+  news1: 
+  news2:
+
+
+- title: "Visualizing Waypoints-Constrained Origin-Destination Patterns for Massive Transportation Data"
+  image: 
+  description: 
+  authors: <b>Wei Zeng</b>, Chi-Wing Fu, Stefan Müller Arisona, Alexander Erath, Huamin Qu
+  link:
+    url: https://zeng-wei.com/publication/papers/2016%20Waypoints%20OD.pdf
+    display: Computer Graphics Forum vol. 35, no. 8, pp. 95-107, 2016.
+  highlight: 0
+  type: 1
+  year: 2016
+  news1: 
+  news2:
+
+
+- title: "Visualizing Mobility of Public Transportation System"
+  image: 
+  description: 
+  authors: <b>Wei Zeng</b>, Chi-Wing Fu, Stefan Müller Arisona, Alexander Erath, Huamin Qu
+  link:
+    url: https://zeng-wei.com/publication/papers/2014%20Mobility.pdf
+    display: IEEE Transactions on Visualization and Computer Graphics (Proceedings of IEEE VAST'14) vol. 20, no. 12, pp. 1833-1842, 2014.
+  highlight: 0
+  type: 1
+  year: 2014
+  news1: 
+  news2:
+
+
+- title: "The Time Space Diagram Revisited"
+  image: 
+  description: 
+  authors: Afian Anwar, <b>Wei Zeng</b>, Stefan Müller Arisona
+  link:
+    url: https://zeng-wei.com/publication/papers/2014%20The%20Time%20Space%20Diagram%20Revisited.pdf
+    display: Transportation Research Record - Journal of the Transportation Research Board (Proceedings of TRB'14) No. 14-1046, 2014.
+  highlight: 0
+  type: 1
+  year: 2014
+  news1: 
+  news2:
+
+
+- title: "Classifying Watermelon Ripeness by Analysing Acoustic Signals Using Mobile Devices"
+  image: 
+  description: 
+  authors: <b>Wei Zeng</b>, Xianfeng Huang, Stefan Müller Arisona and Ian Vince McLoughlin
+  link:
+    url: https://zeng-wei.com/publication/papers/2013%20watermelon.pdf
+    display: Personal and Ubiquitous Computing vol. 18, no. 7, pp. 1753-1762, 2014.
+  highlight: 0
+  type: 1
+  year: 2014
+  news1: 
+  news2:
+
+
+- title: "Visualizing Interchange Patterns in Massive Movement Data"
+  image: 
+  description: 
+  authors: <b>Wei Zeng</b>, Chi-Wing Fu, Stefan Müller Arisona and Huamin Qu
+  link:
+    url: https://zeng-wei.com/publication/papers/2013%20interchange.pdf
+    display: Computer Graphics Forum (Proceedings of EuroVis'13) vol. 32, no. 3pt3, pp. 271-280, 2013.
+  highlight: 0
+  type: 1
+  year: 2013
+  news1: 
+  news2:
+
+
+- title: "Campus Mobility for the Future: The Electric Bicycle"
+  image: 
+  description: 
+  authors: Ian Vince McLoughlin, I Komang Narendra, Leong Hai Koh, Quang Huy Nguyen, Bharath Seshadri, <b>Wei Zeng</b>, Chang Yao
+  link:
+    url: https://zeng-wei.com/publication/papers/2012%20Campus%20Mobility%20for%20the%20Future-The%20Electric%20Bicycle.pdf
+    display: Digital Urban Modeling and Simulation vol. 2, no. 1, pp. 1-12, 2012.
+  highlight: 0
+  type: 1
+  year: 2012
+  news1: 
+  news2:
+
+
+- title: "Texture-lobes for tree modeling"
+  image: lobetree.png
+  description: We present a lobe-based tree representation for modeling trees. The new representation is based on the observation that the tree’s foliage details can be abstracted into canonical geometry structures, termed lobe-textures. 
+  authors: Yotam Livny, Soeren Pirk, <b>Zhanglin Cheng</b>, Feilong Yan, <b>Oliver Deussen</b>, Daniel Cohen-Or, Baoquan Chen
+  link:
+    url: https://dl.acm.org/citation.cfm?id=1964948
+    display: ACM Transactions on Graphics (TOG) 30 (4), 53.
+  highlight: 1
+  year: 2011
+  type: 1
+  news1: 
+  news2:
+
+- title: "Estimating differential quantities from point cloud based on a linear fitting of normal vectors"
+  image: 
+  description: 
+  authors: <b>Zhanglin Cheng</b>, Xiaopeng Zhang
+  link:
+    url: https://link.springer.com/article/10.1007/s11432-009-0061-5
+    display: Science in China Series F:Information Sciences 52 (3), 431-444	16	2009
+  highlight: 0
+  type: 1
+  year: 2009
+  news1: 
+  news2:
+
+
+- title: "Robust Curvature Estimation and Geometry Analysis of 3D point Cloud Surfaces"
+  image: 
+  description: 
+  authors: Xiaopeng Zhang, Hongjun Li, <b>Zhanglin Cheng</b>, Yikuan Zhang
+  link:
+    url: http://manu35.magtech.com.cn/Jwk_ics/CN/article/downloadArticleFile.do?attachType=PDF&id=3575
+    display: Journal of Information & Computational Science 6 (5), 1983-1990	11	2009
+  highlight: 0
+  type: 1
+  year: 2009
+  news1: 
+  news2:
+
+
+- title: "Curvature estimation of 3d point cloud surfaces through the fitting of normal section curvatures"
+  image: 
+  description: 
+  authors: Xiaopeng Zhang, Hongjun Li, <b>Zhanglin Cheng</b>
+  link:
+    url: \#
+    display: AsiaGraph 2008, 72-79
+  highlight: 0
+  type: 1
+  year: 2008
+  news1: 
+  news2:
+
+
+- title: "Simple reconstruction of tree branches from a single range image"
+  image: 
+  description: 
+  authors: <b>Zhanglin Cheng</b>, Xiaopeng Zhang, Baoquan Chen
+  link:
+    url: https://link.springer.com/article/10.1007/s11390-007-9095-6
+    display: Journal of computer science and technology 22 (6), 846-858
+  highlight: 0
+  type: 1
+  year: 2007
+  news1: 
+  news2:
+
+# conference
+- title: "VIStory: Interactive Storyboard for Exploring Visual Information in Scientific Publications"
+  image: vispub.png
+  description: We present VIStory, an interactive storyboard for exploring visual information in scientific publications. We harvest the data using an automatic figure extraction method, resulting in a large corpora of figures. Each figure contains various attributes such as dominant color and width/height ratio, together with faceted metadata of the publication including venues, authors, and keywords.
+  authors: <b>Ao Dong</b>, <b>Wei Zeng</b> (Corresponding Author), <b>Xi Chen</b>, <b>Zhanglin Cheng</b>
+  link:
+    url: https://dongoa.github.io/projects/VIStory/index.html
+    display: Proceedings VINCI, Accepted, 2019
+  highlight: 1
+  type: 2
+  year: 2019
+  news1: 
+  news2:
+
+- title: "Realistic procedural plant modeling guided by 3D point cloud"
+  image: pointtree.png
+  description: We present a rule-based framework for generating naturally-looking plant models from real point cloud.
+  authors: Jianwei Guo, <b>Zhanglin Cheng*</b>, Shibiao Xu, Xiaopeng Zhang
+  link:
+    url: https://dl.acm.org/citation.cfm?id=3102193
+    display: SIGGRAPH 2017 (Poster), Los Angeles, California, July 30 - August 03, Article 85.
+  highlight: 1
+  type: 2
+  year: 2017
+  news1: 
+  news2:
+
+- title: "Urban Fusion: Visualizing urban data fused with social feeds via a game engine"
+  image: 
+  description: 
+  authors: Jan Perhac, <b>Wei Zeng</b>, Shiho Asada, Remo Burkhard, Stefan Mueller Arisona, Simon Schubiger, Berhard Klein
+  link:
+    url: https://zeng-wei.com/publication/papers/2017%20Urban%20Fusion.pdf
+    display: Proceedings of 21st International Conference on Information Visualisation, pp. 312-317, 2017.
+  highlight: 0
+  type: 2
+  year: 2017
+  news1: 
+  news2:
+
+- title: "Urban Mining: Visualizing the Availability of Construction Materials for Re-use in Future Cities"
+  image: 
+  description: 
+  authors: Aurel von Richthofen, <b>Wei Zeng</b>, Shiho Asada, Remo Burkhard, Felix Heisel, Stefan Mueller Arisona, Simon Schubiger
+  link:
+    url: https://zeng-wei.com/publication/papers/2017%20Urban%20Fusion.pdf
+    display: Proceedings of 21st International Conference on Information Visualisation, pp. 306-311, 2017.
+  highlight: 0
+  type: 2
+  year: 2017
+  news1: 
+  news2:
+
+- title: "A visual Analytics Design for Studying Crowd Movement Rhythms for Public Transportation Data"
+  image: 
+  description: 
+  authors: <b>Wei Zeng</b>, Chi-Wing Fu, Stefan Müller Arisona, Simon Schubiger, Remo Burkhard and Kwan-Liu Ma
+  link:
+    url: https://zeng-wei.com/publication/papers/2016%20A%20Visual%20Analytics%20Design%20for%20Studying%20Crowd%20Movement%20Rhythms%20from%20Public%20Transportation%20Data.pdf
+    display: Proceedings of SIGGRAPH Asia Symposium on Visualization pp. 4:1-4:7, 2016.
+  highlight: 0
+  type: 2
+  year: 2016
+  news1: 
+  news2:
+
+- title: "MetroBuzz: Interactive 3D Visualization of Spatiotemporal Data"
+  image: 
+  description: 
+  authors: <b>Wei Zeng</b>, Chen Zhong, Afian Anwar, Stefan Müller Arisona, and Ian Vince McLoughlin
+  link:
+    url: https://zeng-wei.com/publication/papers/2012%20Metrobuzz.pdf
+    display: Proceedings of International Conference on Computer & Information Science vol. 1, pp. 143-147, 2012.
+  highlight: 0
+  type: 2
+  year: 2012
+  news1: 
+  news2:
+
+- title: "Tree skeleton extraction from a single range image"
+  image: 
+  description: 
+  authors: <b>Zhanglin Cheng</b>, Xiaopeng Zhang, Thierry Fourcaud
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/4548382/
+    display: 2006 Second International Symposium on Plant Growth Modeling and Applications
+  highlight: 0
+  type: 2
+  year: 2006
+  news1: 
+  news2:
+
+- title: "The design and implementation of a C++ toolkit for integrated medical image processing and analyzing"
+  image: 
+  description: 
+  authors: Mingchang Zhao, Jie Tian, Xun Zhu, Jian Xue, <b>Zhanglin Cheng</b>, Hua Zhao
+  link:
+    url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5367/0000/The-design-and-implementation-of-a-C-toolkit-for-integrated/10.1117/12.534890.short
+    display: Proceedings of SPIE Medical Imaging 5367, 39-47
+  highlight: 0
+  type: 2
+  year: 2004
+  news1: 
+  news2:
