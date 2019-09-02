@@ -3,7 +3,7 @@ title: "Zhanglin Cheng"
 layout: zhanglinTemplate
 excerpt: "Zhanglin Cheng's page"
 sitemap: false
-permalink: /~zhanglin2.html
+permalink: /~zhanglin.html
 ---
 {% assign year = 2049 %}
 <div markdown="0">

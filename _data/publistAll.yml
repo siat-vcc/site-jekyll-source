@@ -12,18 +12,7 @@
 
 
 # journal
-- title: "Improving the Robustness of Scagnostics"
-  image: 
-  description: 
-  authors: Yunhai Wang, Zeyu Wang, Tingting Liu, Michael Correll, <b>Zhanglin Cheng*</b>, <b>Oliver Deussen</b>, Michael Sedlmair
-  link:
-    url: \#
-    display: IEEE Transactions on Visualization and Computer Graphics (IEEE Vis 2019).
-  highlight: 0
-  type: 1
-  year: 2019
-  news1: 
-  news2:
+
 
 
 - title: "VEGA :Visual Comparison of Phylogenetic Trees for Evolutionary Genome Analysis"
@@ -94,7 +83,20 @@
   year: 2019
   news1: in print, 2019
   news2:
- 
+
+- title: "Improving the Robustness of Scagnostics"
+  image: 
+  description: 
+  authors: Yunhai Wang, Zeyu Wang, Tingting Liu, Michael Correll, <b>Zhanglin Cheng*</b>, <b>Oliver Deussen</b>, Michael Sedlmair
+  link:
+    url: \#
+    display: IEEE Transactions on Visualization and Computer Graphics (IEEE Vis 2019).
+  highlight: 0
+  type: 1
+  year: 2019
+  news1: 
+  news2:
+
 - title: "Synthesizing Cloth Wrinkles by CNN-based Geometry Image Super-resolution"
   image: 
   description: 
